@@ -23,9 +23,11 @@ author_profile: true
 <div class="pub-container">
     <div class="pub-thumb"><img src="https://lemonatsu.github.io/images/bio-photo.jpg"></div>
     <div class="pub-content">
+        <a>
             <p class="pub-title">Diversity-driven exploration strategy for deep reinforcement learning</p>
             <p class="pub-author">Z.-W. Hong, T.-Y. Shann, <b>S.-Y. Su</b>, Y.-H. Chang, C.-Y. Lee</p>
             <a class="pub-conf">ICLR Workshop 2018</a>
+        </a>
     </div>
 </div>
 <div class="pub-container">
