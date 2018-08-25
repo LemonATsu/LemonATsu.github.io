@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "Shih-Yang Su"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,5 +8,5 @@ redirect_from:
   - /about.html
 ---
 
-I am a first year Ph.D. student working with [Prof. Jia-Bin Huang](https://filebox.ece.vt.edu/~jbhuang/) in the Electrical and Computer Engineering department at Virginia Tech.
+I am a first year Ph.D. student working with [Prof. Jia-Bin Huang](https://filebox.ece.vt.edu/~jbhuang/) in the Electrical and Computer Engineering department at Virginia Tech. My research topics include Machine Perception, Visual Representation Learning, Reinforcement Learning, and Embodied Vision Learning.
 

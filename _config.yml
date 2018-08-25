@@ -79,7 +79,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Shih-Yang Su"
+  name             : "About me"
   avatar           : "https://lemonatsu.github.io/images/profile.png"
   bio              : "First year Ph.D. student at Virginia Tech, working on vision, machine perception, reinforcement learning and embodied vision."
   location         : "Blacksburg, VA"
