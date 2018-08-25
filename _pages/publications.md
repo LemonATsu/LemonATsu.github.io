@@ -4,4 +4,4 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-$i=10$
+<b>this should go bolddd</b>
