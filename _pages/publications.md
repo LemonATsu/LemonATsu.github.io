@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 <div class="pub-container">
-    <div class="pub-thumb"><img src="https://lemonatsu.github.io/images/bio-photo.jpg"></div>
+    <div class="pub-thumb"><img src="https://lemonatsu.github.io/images/virtualtoreal.png"></div>
     <div class="pub-content">
         <div class="pub-title">Virtual-to-real: Learning to control in visual semantic segmentation</div>
         <div class="pub-author">Z.-W. Hong, Y.-M. Chen, <b>S.-Y. Su</b>, T.-Y. Shann, Y.-H .Chang, H.-K. Yang, B. Ho, C.-C Tu, Y.-C. Chang, T.-C. Hsiao, H.-W. Hsiao, Si.-P. Lai, C.-Y. Lee</div>
