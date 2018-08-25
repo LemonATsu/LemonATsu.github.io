@@ -1,5 +1,5 @@
 .pub-container {
-    margin: 20px 20px 20px 20px;  
+    margin: 30px 30px 30px 30px;  
     border-bottom: 1px solid #333;
     overflow: auto
 }
@@ -8,8 +8,8 @@
 }
 .pub-thumb img {
     display: block;
-    height: 250px;
-    width: 250px;
+    height: 240px;
+    width: 240px;
 }
 .pub-content {
     margin-left: 210px
