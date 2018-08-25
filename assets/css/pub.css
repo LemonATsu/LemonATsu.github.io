@@ -9,16 +9,14 @@
     float: left;
     margin-right: 10px;
     margin-bottom: 10px;
-    height: 100px;
+    height: 120px;
     width: 250px;
 }
 .pub-thumb img {
     display: block;
-    height: 100px;
-    width: 250px;
 }
 .pub-content {
-    margin-top: 10px;
+    margin-top: 15px;
 }
 .pub-title {
     font-size: 105%;
