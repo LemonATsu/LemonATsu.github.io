@@ -20,3 +20,19 @@ author_profile: true
         <h3 class="pub-conf">AAMAS 2018</h3>
     </div>
 </div>
+<div class="pub-container">
+    <div class="pub-thumb"><img src="https://lemonatsu.github.io/images/bio-photo.jpg"></div>
+    <div class="pub-content">
+        <h3 class="pub-title">Diversity-driven exploration strategy for deep reinforcement learning</h3>
+        <h3 class="pub-author">Z.-W. Hong, T.-Y. Shann, <b>S.-Y. Su</b>, Y.-H. Chang, C.-Y. Lee</h3>
+        <h3 class="pub-conf">ICLR Workshop 2018</h3>
+    </div>
+</div>
+<div class="pub-container">
+    <div class="pub-thumb"><img src="https://lemonatsu.github.io/images/bio-photo.jpg"></div>
+    <div class="pub-content">
+        <h3 class="pub-title">Automatic conversion of pop music into chiptunes for 8-bit pixel art</h3>
+        <h3 class="pub-author"><b>S.-Y. Su</b>, C.-K. Chiu, L. Su, and Y.-H. Yang</h3>
+        <h3 class="pub-conf">ICASSP 2017</h3>
+    </div>
+</div>
