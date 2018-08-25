@@ -16,6 +16,7 @@
     display: block;
 }
 .pub-content {
+    margin-top: 10px;
 }
 .pub-title {
     font-size: 105%;
