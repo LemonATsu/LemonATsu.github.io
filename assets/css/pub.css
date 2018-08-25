@@ -1,6 +1,6 @@
 .pub-container {
     margin: 20px 20px 0 0;  
-    border-bottom: 3px solid #333;
+    border-bottom: 1px solid #333;
     overflow: auto
 }
 .pub-thumb {
@@ -14,14 +14,11 @@
 }
 .pub-title {
     font-weight: bold;
-    font-size: 100%
 }
 .pub-author {
     font-weight: bold;
-    font-size: 100%
 }
 .pub-extra {
     font-weight: bold;
-    font-size: 100%
 }
 
