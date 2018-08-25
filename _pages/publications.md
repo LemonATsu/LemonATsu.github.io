@@ -14,7 +14,7 @@ author_profile: true
     </div>
 </div>
 <div class="pub-container">
-    <div class="pub-thumb"><img src="https://lemonatsu.github.io/images/dpiqn.png" style="width:250;height:120;"></div>
+    <div class="pub-thumb"><img src="https://lemonatsu.github.io/images/dpiqn.png" style="width:250;height:130;"></div>
     <div class="pub-content">
         <div class="pub-title">A deep policy inference Q-network for multi-agent systems</div>
         <div class="pub-author"><b>S.-Y. Su</b>*, Z.-W. Hong*, Y.-S, Chang*, T.-Y. Shann*, and C.-Y. Lee*</div>
@@ -23,7 +23,7 @@ author_profile: true
     </div>
 </div>
 <div class="pub-container">
-    <div class="pub-thumb"><img src="https://lemonatsu.github.io/images/bio-photo.jpg"></div>
+    <div class="pub-thumb"><img src="https://lemonatsu.github.io/images/NTHU.png" style="width:250px;height:120px"></div>
     <div class="pub-content">
         <div class="pub-title">Diversity-driven exploration strategy for deep reinforcement learning</div>
         <div class="pub-author">Z.-W. Hong, T.-Y. Shann, <b>S.-Y. Su</b>, Y.-H. Chang, C.-Y. Lee</div>
@@ -32,10 +32,11 @@ author_profile: true
     </div>
 </div>
 <div class="pub-container">
-    <div class="pub-thumb"><img src="https://lemonatsu.github.io/images/bio-photo.jpg"></div>
+    <div class="pub-thumb"><img src="https://lemonatsu.github.io/images/sinica.png" style="width:250px;height:120px"></div>
     <div class="pub-content">
         <div class="pub-title">Automatic conversion of pop music into chiptunes for 8-bit pixel art</div>
         <div class="pub-author"><b>S.-Y. Su</b>, C.-K. Chiu, L. Su, and Y.-H. Yang</div>
         <div class="pub-conf">ICASSP 2017</div>
+        [<a href="https://lemonatsu.github.io/files/su17icassp.pdf">Paper</a>]
     </div>
 </div>
