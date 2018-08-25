@@ -13,7 +13,7 @@ author_profile: true
     </div>
 </div>
 <div class="pub-container">
-    <div class="pub-thumb"><img src="https://lemonatsu.github.io/images/bio-photo.jpg"></div>
+    <div class="pub-thumb"><img src="https://lemonatsu.github.io/images/dpiqn.png"></div>
     <div class="pub-content">
         <div class="pub-title">A deep policy inference Q-network for multi-agent systems</div>
         <div class="pub-author"><b>S.-Y. Su</b>*, Z.-W. Hong*, Y.-S, Chang*, T.-Y. Shann*, and C.-Y. Lee*</div>
