@@ -2,7 +2,6 @@
 layout: archive
 title: "Publications"
 permalink: /publications/
-scss: assets/css/pub.scss
 author_profile: true
 ---
 <div class="pub-container">
