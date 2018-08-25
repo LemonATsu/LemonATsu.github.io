@@ -8,19 +8,18 @@
 }
 .pub-thumb img {
     display: block;
-    height: 100px;
+    height: 250px;
     width: 250px;
 }
 .pub-content {
     margin-left: 210px
 }
 .pub-title {
-    font-weight: bold;
+    color: #30323d
 }
+
 .pub-author {
-    font-weight: bold;
 }
 .pub-extra {
-    font-weight: bold;
 }
 
