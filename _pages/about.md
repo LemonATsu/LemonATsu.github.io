@@ -16,12 +16,11 @@ Proir to that, I worked with [Prof. Chun-Yi Lee](http://cymaxwelllee.wixsite.com
 
 
 </pre>
+---
 News
 ---
 2018/08/15 - Start my life at Virginia Tech! \\
 2018/08/02 - Finished my military service! \\
 2018/04/19 - Start my military service. \\
 2018/04/16 - Our paper on virtual-to-real reinforcement learning is accepted to IJCAI! \\
-2018/01/24 - Our paper on multi-agent learning is accepted to AAMAS 2018! \\
-
-
+2018/01/24 - Our paper on multi-agent learning is accepted to AAMAS 2018! 
