@@ -9,7 +9,7 @@
     float: left;
     margin-right: 10px;
     margin-bottom: 10px;
-    height: 150px;
+    height: 100px;
     width: 250px;
 }
 .pub-thumb img {
@@ -18,13 +18,17 @@
 .pub-content {
 }
 .pub-title {
+    font-size: 105%;
     color: #30323d;
 }
 
 .pub-author {
+    font-size: 80%;
     color: #a32c2c;
 }
 
 .pub-conf {
+    font-size: 90%;
+    color: #0066ff; 
 }
 
