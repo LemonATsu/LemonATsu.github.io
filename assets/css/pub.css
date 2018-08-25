@@ -1,0 +1,27 @@
+.pub-container {
+    margin: 20px 20px 0 0;  
+    border: 5px solid #333;
+    overflow: auto
+}
+.pub-thumb {
+    float: left
+}
+.pub-thumb img {
+    display: block
+}
+.pub-content {
+    margin-left: 210px
+}
+.pub-title {
+    font-weight: bold;
+    font-size: 200%
+}
+.pub-author {
+    font-weight: bold;
+    font-size: 200%
+}
+.pub-extra {
+    font-weight: bold;
+    font-size: 200%
+}
+
