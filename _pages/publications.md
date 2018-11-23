@@ -5,6 +5,13 @@ permalink: /publications/
 author_profile: true
 ---
 <div class="pub-container">
+    <div class="pub-content">
+        <div class="pub-title">Anonymous Title</div>
+        <div class="pub-author"></div>
+        <div class="pub-conf">CVPR 2019</div>
+    </div>
+</div>
+<div class="pub-container">
     <div class="pub-thumb"><img src="https://lemonatsu.github.io/images/NTHU.png" style="width:130px;height:130px"></div>
     <div class="pub-content">
         <div class="pub-title">Diversity-driven exploration strategy for deep reinforcement learning</div>
