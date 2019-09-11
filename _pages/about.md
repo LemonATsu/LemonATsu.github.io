@@ -17,7 +17,7 @@ Proir to that, I worked with [Prof. Chun-Yi Lee](http://cymaxwelllee.wixsite.com
 
 </pre>
 ## News
-<div class='news' style=font-size:0.9em;>
+<div class="news" style="font-size:0.9em;">
 2019/05 - Start my internship at [Borealis.ai](https://www.borealisai.com) Vancouver! \\
 2019/04 - I will serve as a reviewer in NeurIPS 2019. \\
 2018/11 - I am one of the student volunteers in NeurIPS 2018. Come and say hello! \\
