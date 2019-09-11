@@ -81,7 +81,7 @@ analytics:
 author:
   name             : "About me"
   avatar           : "https://lemonatsu.github.io/images/shih-yang_su-2.png"
-  bio              : "Machine perception\nReinforcement Learning\nEmbodied Vision."
+  bio              : "Machine perception\nReinforcement Learning\nEmbodied Vision\nGraph Generation"
   location         : "Blacksburg, VA"
   employer         :
   googlescholar    : 
