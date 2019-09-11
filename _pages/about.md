@@ -16,6 +16,19 @@ Proir to that, I worked with [Prof. Chun-Yi Lee](http://cymaxwelllee.wixsite.com
 <pre>
 
 </pre>
+---
+permalink: /
+title: "Shih-Yang Su"
+excerpt: "About me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+  - /home/
+  - /home.html
+---
+
+
 ## News
 2019/05 - Start my internship at [Borealis.ai](https://www.borealisai.com) Vancouver! \\
 2019/04 - I will serve as a reviewer in NeurIPS 2019. \\
