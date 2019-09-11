@@ -16,13 +16,14 @@ Proir to that, I worked with [Prof. Chun-Yi Lee](http://cymaxwelllee.wixsite.com
 <pre>
 
 </pre>
-
 ## News
-2019/05 - Start my internship at [Borealis.ai](https://www.borealisai.com) Vancouver! \\
-2019/04 - I will serve as a reviewer in NeurIPS 2019. \\
-2018/11 - I am one of the student volunteers in NeurIPS 2018. Come and say hello! \\
-2018/09 - Our paper on [RL exploration strategy](https://arxiv.org/abs/1802.04564.pdf) is accepted to **NIPS 2018**! \\
-2018/08 - Finished my military service! \\
-2018/04 - Start my military service. \\
-2018/04 - Our paper on virtual-to-real reinforcement learning is accepted to **IJCAI 2018**! \\
+<div class="news" style="font-size:0.9em">
+2019/05 - Start my internship at <a href="https://www.borealisai.com">Borealis.ai</a> Vancouver! <br>
+2019/04 - I will serve as a reviewer in NeurIPS 2019. <br>
+2018/11 - I am one of the student volunteers in NeurIPS 2018. Come and say hello! <br>
+2018/09 - Our paper on [RL exploration strategy](https://arxiv.org/abs/1802.04564.pdf) is accepted to **NIPS 2018**! <br>
+2018/08 - Finished my military service! <br>
+2018/04 - Start my military service. <br>
+2018/04 - Our paper on virtual-to-real reinforcement learning is accepted to **IJCAI 2018**! <br>
 2018/01 - Our paper on multi-agent learning is accepted to **AAMAS 2018**! 
+</div>
