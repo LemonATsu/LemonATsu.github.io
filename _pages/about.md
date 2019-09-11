@@ -15,10 +15,9 @@ I am a graduate student working with [Prof. Jia-Bin Huang](https://filebox.ece.v
 Proir to that, I worked with [Prof. Chun-Yi Lee](http://cymaxwelllee.wixsite.com/elsa) and [Prof. Shang-Hong Lai](http://www.cs.nthu.edu.tw/~lai/) at National Tsing Hua University, [Dr. Yi-Hsuang Yang](http://mac.citi.sinica.edu.tw/~yang/) and [Dr. Li Su](https://sites.google.com/site/lisupage/) at Academia Sinica. 
 <pre>
 
-
-
 </pre>
 ## News
+<div class='news' style=font-size:0.9em;>
 2019/05 - Start my internship at [Borealis.ai](https://www.borealisai.com) Vancouver! \\
 2019/04 - I will serve as a reviewer in NeurIPS 2019. \\
 2018/11 - I am one of the student volunteers in NeurIPS 2018. Come and say hello! \\
@@ -27,3 +26,4 @@ Proir to that, I worked with [Prof. Chun-Yi Lee](http://cymaxwelllee.wixsite.com
 2018/04 - Start my military service. \\
 2018/04 - Our paper on virtual-to-real reinforcement learning is accepted to **IJCAI 2018**! \\
 2018/01 - Our paper on multi-agent learning is accepted to **AAMAS 2018**! 
+</div>
