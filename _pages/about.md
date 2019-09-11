@@ -24,5 +24,5 @@ Proir to that, I worked with [Prof. Chun-Yi Lee](http://cymaxwelllee.wixsite.com
 2018/08 - Finished my military service! <br>
 2018/04 - Start my military service. <br>
 2018/04 - Our paper on virtual-to-real reinforcement learning is accepted to <b>IJCAI 2018</b>! <br>
-2018/01 - Our paper on multi-agent learning is accepted to <b>AAMAS 2018></b>! 
+2018/01 - Our paper on multi-agent learning is accepted to <b>AAMAS 2018</b>! 
 </div>
