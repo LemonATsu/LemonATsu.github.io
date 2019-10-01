@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 <div class="pub-container">
-    <div class="pub-thumb"><img src="https://lemonatsu.github.io/images/vrnn.png" style="width:250px;height:130px"></div>
+    <div class="pub-thumb"><img src="https://lemonatsu.github.io/images/vrnn.png" style="width:520px;height:130px"></div>
     <div class="pub-content">
         <div class="pub-title">Graph Generation with Variational Recurrent Neural Network</div>
         <div class="pub-author">Shih-Yang Su, Hossein Hajimirsadeghi, Greg Mori</div>
