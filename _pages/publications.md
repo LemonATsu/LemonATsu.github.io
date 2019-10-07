@@ -10,6 +10,7 @@ author_profile: true
         <div class="pub-title">Graph Generation with Variational Recurrent Neural Network</div>
         <div class="pub-author"><b>Shih-Yang Su</b>, Hossein Hajimirsadeghi, Greg Mori</div>
         <div class="pub-conf">NeurIPS 2019 Graph Representation Learning Workshop</div>
+        [<a href="https://arxiv.org/abs/1910.01743">Paper</a>]
     </div>
 </div>
 <div class="pub-container">

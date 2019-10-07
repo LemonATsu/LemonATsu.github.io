@@ -17,7 +17,7 @@ Proir to that, I worked with [Prof. Chun-Yi Lee](http://cymaxwelllee.wixsite.com
 
 ## News
 <div class="news" style="font-size:0.9em">
-2019/10 - Our paper on graph generation is accepted to <b>NeurIPS 2019 <a href="https://grlearning.github.io/">GRL Workshop</a></b>! <br>
+2019/10 - Our paper on <a href="https://arxiv.org/abs/1910.01743">graph generation</a> is accepted to <b>NeurIPS 2019 <a href="https://grlearning.github.io/">GRL Workshop</a></b>! <br>
 2019/05 - Start my internship at <a href="https://www.borealisai.com">Borealis.ai</a> Vancouver! <br>
 2019/04 - I will serve as a reviewer for NeurIPS 2019. <br>
 2018/11 - I am one of the student volunteers in NeurIPS 2018. Come and say hello! <br>
