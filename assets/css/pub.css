@@ -35,6 +35,7 @@
     color: #0066ff; 
 }
 
-u {
-    text-decoration-color: #a32c2c;
+b {
+    color: #a32c2c;
+    border-bottom: 1px solid #a32c2c;
 }
