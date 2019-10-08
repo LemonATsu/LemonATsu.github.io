@@ -17,13 +17,13 @@ Proir to that, I worked with [Prof. Chun-Yi Lee](http://cymaxwelllee.wixsite.com
 
 ## News
 <div class="news" style="font-size:0.9em">
-2019/10 - Our paper on <a href="https://arxiv.org/abs/1910.01743">graph generation</a> is accepted to <b>NeurIPS 2019 <a href="https://grlearning.github.io/">GRL Workshop</a></b>! <br>
+2019/10 - Our paper on <a href="https://arxiv.org/abs/1910.01743">graph generation</a> is accepted to <u>NeurIPS 2019</u> <a href="https://grlearning.github.io/">GRL Workshop</a>! <br>
 2019/05 - Start my internship at <a href="https://www.borealisai.com">Borealis.ai</a> Vancouver! <br>
 2019/04 - I will serve as a reviewer for NeurIPS 2019. <br>
 2018/11 - I am one of the student volunteers in NeurIPS 2018. Come and say hello! <br>
-2018/09 - Our paper on <a href="https://arxiv.org/abs/1802.04564.pdf">RL exploration strategy</a> is accepted to <b>NeurIPS 2018</b>! <br>
+2018/09 - Our paper on <a href="https://arxiv.org/abs/1802.04564.pdf">RL exploration strategy</a> is accepted to <u>NeurIPS 2018</u>! <br>
 2018/08 - Finished my military service! <br>
 2018/04 - Start my military service. <br>
-2018/04 - Our paper on virtual-to-real reinforcement learning is accepted to <b>IJCAI 2018</b>! <br>
-2018/01 - Our paper on multi-agent learning is accepted to <b>AAMAS 2018</b>! 
+2018/04 - Our paper on virtual-to-real reinforcement learning is accepted to <u>IJCAI 2018</u>! <br>
+2018/01 - Our paper on multi-agent learning is accepted to <u>AAMAS 2018</u>! 
 </div>
