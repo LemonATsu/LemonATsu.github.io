@@ -5,9 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 <div class="pub-container">
-    <div class="pub-thumb"><img src="" style="width:520px;height:130px"></div>
+    <div class="pub-thumb"><img src="https://lemonatsu.github.io/images/coming_soon.png" style="width:520px;height:130px"></div>
     <div class="pub-content">
-        <div class="pub-title">(COMING SOON) 3D Photography using Context-aware Layered Depth Inpainting</div>
+        <div class="pub-title">3D Photography using Context-aware Layered Depth Inpainting</div>
         <div class="pub-author">Meng-Li Shih, <b>Shih-Yang Su</b>, Johannes Kopf, Jia-Bin Huang</div>
         <div class="pub-conf">CVPR 2020</div>
         [<a href="https://arxiv.org/abs/1910.01743">Paper</a>]
