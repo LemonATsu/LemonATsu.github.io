@@ -11,6 +11,7 @@ author_profile: true
         <div class="pub-author">Meng-Li Shih, <b>Shih-Yang Su</b>, Johannes Kopf, Jia-Bin Huang</div>
         <div class="pub-conf">CVPR 2020</div>
         [<a href="https://arxiv.org/abs/1910.01743">Paper</a>]
+        <div>Thumbnail credit: Otter Hinata</div>
     </div>
 </div>
 <div class="pub-container">
