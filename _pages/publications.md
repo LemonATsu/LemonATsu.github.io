@@ -58,5 +58,6 @@ author_profile: true
         <div class="pub-author"><b>Shih-Yang Su</b>, Cheng-Kai Chiu, Li Su, and Yi-Hsuan Yang</div>
         <div class="pub-conf">ICASSP 2017</div>
         [<a href="https://lemonatsu.github.io/files/su17icassp.pdf">Paper</a>]
+        [<a href="https://lemonatsu.github.io/py8bit_web/">Project Page</a>]
     </div>
 </div>
