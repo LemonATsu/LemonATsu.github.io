@@ -16,7 +16,7 @@ Proir to that, I worked with [Prof. Chun-Yi Lee](http://cymaxwelllee.wixsite.com
 
 ## Project Links
 <div class="news" style="font-size:0.9em">
-<a href="https://shihmengli.github.io/3D-Photo-Inpainting/">3D Photography project page (CVPR 2020)</a>
+<a href="https://shihmengli.github.io/3D-Photo-Inpainting/">3D Photography project page (CVPR 2020)</a> <br>
 <a href="https://lemonatsu.github.io/py8bit_web/">8 Bit converter project page (ICASSP 2017)</a>
 </div>
 
