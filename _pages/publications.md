@@ -10,7 +10,7 @@ author_profile: true
         <div class="pub-title">3D Photography using Context-aware Layered Depth Inpainting</div>
         <div class="pub-author">Meng-Li Shih, <b>Shih-Yang Su</b>, Johannes Kopf, Jia-Bin Huang</div>
         <div class="pub-conf">CVPR 2020</div>
-        [<a href="">Paper</a>]
+        [<a href="https://arxiv.org/abs/2004.04727">Paper</a>]
         [<a href="https://shihmengli.github.io/3D-Photo-Inpainting/">Project Page</a>]
         <div>Thumbnail credit: Otter Hinata</div>
     </div>
