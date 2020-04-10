@@ -14,9 +14,10 @@ I am a graduate student working with [Prof. Jia-Bin Huang](https://filebox.ece.v
 
 Proir to that, I worked with [Prof. Chun-Yi Lee](http://cymaxwelllee.wixsite.com/elsa) and [Prof. Shang-Hong Lai](http://www.cs.nthu.edu.tw/~lai/) at National Tsing Hua University, [Dr. Yi-Hsuang Yang](http://mac.citi.sinica.edu.tw/~yang/) and [Dr. Li Su](https://sites.google.com/site/lisupage/) at Academia Sinica. 
 
-## Quick Links
+## Project Links
 <div class="news" style="font-size:0.9em">
-<a href="https://lemonatsu.github.io/py8bit_web/">8 Bit converter project page</a>
+<a href="https://shihmengli.github.io/3D-Photo-Inpainting/">3D Photography project page (CVPR 2020)</a>
+<a href="https://lemonatsu.github.io/py8bit_web/">8 Bit converter project page (ICASSP 2017)</a>
 </div>
 
 ## News
