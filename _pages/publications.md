@@ -29,7 +29,7 @@ author_profile: true
     <div class="pub-content">
         <div class="pub-title">Diversity-driven exploration strategy for deep reinforcement learning</div>
         <div class="pub-author">Zhang-Wei Hong, Tzu-Yun Shann, <b>Shih-Yang Su</b>, Yi-Hsiang Chang, Chun-Yi Lee</div>
-        <div class="pub-conf">NIPS 2018</div>
+        <div class="pub-conf">NeurIPS 2018</div>
         [<a href="https://arxiv.org/abs/1802.04564.pdf">Paper</a>]
     </div>
 </div>
