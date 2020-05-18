@@ -7,7 +7,7 @@ author_profile: true
 <div class="pub-container">
     <div class="pub-thumb"><img src="https://lemonatsu.github.io/images/3dphoto.gif" style="width:170px;height:170px"></div>
     <div class="pub-content">
-        <div class="pub-title">3D Photography using Context-aware Layered Depth Inpainting</div>
+        <div class="pub-title">3D Photography using context-aware layered depth inpainting</div>
         <div class="pub-author">Meng-Li Shih, <b>Shih-Yang Su</b>, Johannes Kopf, Jia-Bin Huang</div>
         <div class="pub-conf">CVPR 2020</div>
         [<a href="https://arxiv.org/abs/2004.04727">Paper</a>]
@@ -18,7 +18,7 @@ author_profile: true
 <div class="pub-container">
     <div class="pub-thumb"><img src="https://lemonatsu.github.io/images/vrnn.png" style="width:520px;height:130px"></div>
     <div class="pub-content">
-        <div class="pub-title">Graph Generation with Variational Recurrent Neural Network</div>
+        <div class="pub-title">Graph generation with variational recurrent neural network</div>
         <div class="pub-author"><b>Shih-Yang Su</b>, Hossein Hajimirsadeghi, Greg Mori</div>
         <div class="pub-conf">NeurIPS 2019 Graph Representation Learning Workshop</div>
         [<a href="https://arxiv.org/abs/1910.01743">Paper</a>]
