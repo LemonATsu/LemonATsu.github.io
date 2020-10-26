@@ -81,11 +81,11 @@ analytics:
 author:
   name             : "About me"
   avatar           : "https://lemonatsu.github.io/images/shih-yang_su-2.png"
-  bio              : "Machine Perception\nReinforcement Learning\nEmbodied Vision"
-  location         : "Blacksburg, VA"
+  bio              : "Human Motion Learning\nReinforcement Learning\nEmbodied Vision"
+  location         : "Vancouver, BC"
   employer         :
   googlescholar    : 
-  email            : "shihyang@vt.edu"
+  email            : "shihyang@cs.ubc.ca"
   uri              :
   bitbucket        :
   codepen          :
