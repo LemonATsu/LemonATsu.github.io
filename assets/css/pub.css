@@ -1,16 +1,13 @@
 .pub-container {
-    margin-top: 30px;
-    margin-bottom: 10px;
-    margin-right: 50px;
-    border-bottom: 1px solid #333;
-    overflow: auto
+    padding-top: 0px;
+    padding-bottom: 20px;
 }
 .pub-thumb {
-    float: left;
-    margin-right: 10px;
-    margin-bottom: 10px;
-    height: 150px;
-    width: 250px;
+    max-width: 200px;
+    padding-right: 0px;
+    padding-top: 5px;
+    display: inline-block;
+    vertical-align: middle;
 }
 
 .pub-content {
@@ -36,7 +33,7 @@ b {
     border-bottom: 1px solid #a32c2c;
 }
 
-img.img-responsive {
+.pub-thumb.img-responsive {
     width: 100%;
     height: auto;
     display: block;
