@@ -25,7 +25,7 @@ author_profile: true
     </div>
 </div>
 <div class="pub-container">
-    <div class="pub-thumb"><img src="https://lemonatsu.github.io/images/NTHU.png" style="width:130px;height:130px"></div>
+    <div class="pub-thumb"><img src="https://lemonatsu.github.io/images/divdriven.png" style="width:130px;height:130px"></div>
     <div class="pub-content">
         <div class="pub-title">Diversity-driven exploration strategy for deep reinforcement learning</div>
         <div class="pub-author">Zhang-Wei Hong, Tzu-Yun Shann, <b>Shih-Yang Su</b>, Yi-Hsiang Chang, Chun-Yi Lee</div>
@@ -52,7 +52,7 @@ author_profile: true
     </div>
 </div>
 <div class="pub-container">
-    <div class="pub-thumb"><img src="https://lemonatsu.github.io/images/sinica.png" style="width:130px;height:130px"></div>
+    <div class="pub-thumb"><img src="https://lemonatsu.github.io/images/pop28bit.png" style="width:130px;height:130px"></div>
     <div class="pub-content">
         <div class="pub-title">Automatic conversion of pop music into chiptunes for 8-bit pixel art</div>
         <div class="pub-author"><b>Shih-Yang Su</b>, Cheng-Kai Chiu, Li Su, and Yi-Hsuan Yang</div>
