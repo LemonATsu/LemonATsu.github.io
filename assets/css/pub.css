@@ -3,7 +3,7 @@
     padding-bottom: 20px;
 }
 .pub-thumb {
-    max-width: 200px;
+    max-width: 150px;
     padding-right: 0px;
     padding-top: 5px;
     display: inline-block;
@@ -11,8 +11,9 @@
 }
 
 .pub-content {
-    margin-top: 15px;
+    margin-left: 20px;
     display: inline-block;
+    vertical-align: middle;
 }
 .pub-title {
     font-size: 105%;
