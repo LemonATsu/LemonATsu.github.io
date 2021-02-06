@@ -12,11 +12,7 @@
     height: 150px;
     width: 250px;
 }
-.pub-thumb img {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-}
+
 .pub-content {
     margin-top: 15px;
 }
@@ -38,4 +34,10 @@
 b {
     color: #a32c2c;
     border-bottom: 1px solid #a32c2c;
+}
+
+img.img-responsive {
+    width: 100%;
+    height: auto;
+    display: block;
 }

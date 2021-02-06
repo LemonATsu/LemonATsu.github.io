@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 <div class="pub-container">
-    <div class="pub-thumb"><img src="https://lemonatsu.github.io/images/3dphoto.gif" style="width:170px;height:170px"></div>
+    <div class="pub-thumb"><img class="img-responsive" src="https://lemonatsu.github.io/images/3dphoto.gif"></div>
     <div class="pub-content">
         <div class="pub-title">3D Photography using context-aware layered depth inpainting</div>
         <div class="pub-author">Meng-Li Shih, <b>Shih-Yang Su</b>, Johannes Kopf, Jia-Bin Huang</div>
@@ -16,7 +16,7 @@ author_profile: true
     </div>
 </div>
 <div class="pub-container">
-    <div class="pub-thumb"><img src="https://lemonatsu.github.io/images/vrnn.png" style="width:520px;height:130px"></div>
+    <div class="pub-thumb"><img class="img-responsive" src="https://lemonatsu.github.io/images/vrnn.png"></div>
     <div class="pub-content">
         <div class="pub-title">Graph generation with variational recurrent neural network</div>
         <div class="pub-author"><b>Shih-Yang Su</b>, Hossein Hajimirsadeghi, Greg Mori</div>
