@@ -25,7 +25,7 @@ author_profile: true
     </div>
 </div>
 <div class="pub-container">
-    <div class="pub-thumb"><img class="img-responsive" src="https://lemonatsu.github.io/images/divdriven.png" style="width:130px;height:130px"></div>
+    <div class="pub-thumb"><img class="img-responsive" src="https://lemonatsu.github.io/images/divdriven.png"></div>
     <div class="pub-content">
         <div class="pub-title">Diversity-driven exploration strategy for deep reinforcement learning</div>
         <div class="pub-author">Zhang-Wei Hong, Tzu-Yun Shann, <b>Shih-Yang Su</b>, Yi-Hsiang Chang, Chun-Yi Lee</div>
@@ -34,7 +34,7 @@ author_profile: true
     </div>
 </div>
 <div class="pub-container">
-    <div class="pub-thumb"><img class="img-responsive" src="https://lemonatsu.github.io/images/virtualtoreal.png" style="width=250px;height=120px;"></div>
+    <div class="pub-thumb"><img class="img-responsive" src="https://lemonatsu.github.io/images/virtualtoreal.png"></div>
     <div class="pub-content">
         <div class="pub-title">Virtual-to-real: Learning to control in visual semantic segmentation</div>
         <div class="pub-author">Zhang-Wei Hong, Yu-Ming Chen, Hsuan-Kung Yang, <b>Shih-Yang Su</b>, Tzu-Yun Shann, Yi-Hsiang Chang, Brian Hsi-Lin Ho, Chih-Chieh Tu, Yueh-Chuan Chang, Tsu-Ching Hsiao, Hsin-Wei Hsiao, Sih-Pin Lai, Chun-Yi Lee</div>
@@ -43,7 +43,7 @@ author_profile: true
     </div>
 </div>
 <div class="pub-container">
-    <div class="pub-thumb"><img class="img-responsive" src="https://lemonatsu.github.io/images/dpiqn.png" style="width:250;height:130;"></div>
+    <div class="pub-thumb"><img class="img-responsive" src="https://lemonatsu.github.io/images/dpiqn.png"></div>
     <div class="pub-content">
         <div class="pub-title">A deep policy inference Q-network for multi-agent systems</div>
         <div class="pub-author"><b>Shih-Yang Su</b>*, Zhang-Wei Hong*, Yi-Hsiang Chang*, Tzu-Yun Shann*, and Chun-Yi Lee*</div>
@@ -52,7 +52,7 @@ author_profile: true
     </div>
 </div>
 <div class="pub-container">
-    <div class="pub-thumb"><img class="img-responsive" src="https://lemonatsu.github.io/images/pop28bit.png" style="width:130px;height:130px"></div>
+    <div class="pub-thumb"><img class="img-responsive" src="https://lemonatsu.github.io/images/pop28bit.png"></div>
     <div class="pub-content">
         <div class="pub-title">Automatic conversion of pop music into chiptunes for 8-bit pixel art</div>
         <div class="pub-author"><b>Shih-Yang Su</b>, Cheng-Kai Chiu, Li Su, and Yi-Hsuan Yang</div>
