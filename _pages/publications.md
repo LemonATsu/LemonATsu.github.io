@@ -5,6 +5,16 @@ permalink: /publications/
 author_profile: true
 ---
 <div class="pub-container">
+    <div class="pub-thumb"><img class="img-responsive" src="https://lemonatsu.github.io/images/anerf.gif"></div>
+    <div class="pub-content">
+        <div class="pub-title">A-NeRF: Surface-free Human 3D Pose Refinement via Neural Rendering</div>
+        <div class="pub-author"><b>Shih-Yang Su</b>, Frank Yu, Michael Zollhoefer, Helge Rhodin</div>
+        <div class="pub-conf">arXiv preprint</div>
+        [<a href="https://arxiv.org/abs/2102.06199">Paper</a>]
+        [<a href="https://lemonatsu.github.io/ANeRF-Surface-free-Pose-Refinement/">Project Page</a>]
+    </div>
+</div>
+<div class="pub-container">
     <div class="pub-thumb"><img class="img-responsive" src="https://lemonatsu.github.io/images/3dphoto.gif"></div>
     <div class="pub-content">
         <div class="pub-title">3D Photography using context-aware layered depth inpainting</div>
