@@ -23,6 +23,7 @@ Proir to that, I worked with [Prof. Chun-Yi Lee](http://cymaxwelllee.wixsite.com
 
 ## News
 <div class="news" style="font-size:0.9em">
+2021/03 - Submitted my reviews for ICML 2021 <br>
 2020/09 - Reviewing for ICLR 2021. <br>
 2020/09 - Now a Ph.D. student in Computer Science at the University of British Columbia. <br>
 2020/05 - Got my M.Sc. degree in Computer Engineering. <br>
