@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Shih-Yang Su"
+title: "蘇仕揚 Shih-Yang Su"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
