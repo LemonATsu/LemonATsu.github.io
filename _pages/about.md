@@ -23,6 +23,7 @@ Proir to that, I worked with [Prof. Chun-Yi Lee](http://cymaxwelllee.wixsite.com
 
 ## News
 <div class="news" style="font-size:0.9em">
+2021/09 - Our <a href="">surface-free human body modeling approach</a> is accepted to <u>NeurIPS 2021</u>! <br>
 2021/03 - Submitted my reviews for ICML 2021 <br>
 2020/09 - Reviewing for ICLR 2021. <br>
 2020/09 - Now a Ph.D. student in Computer Science at the University of British Columbia. <br>
