@@ -9,11 +9,9 @@ redirect_from:
   - /home/
   - /home.html
 ---
-I am a Ph.D. student working with [Prof. Helge Rhodin](https://www.cs.ubc.ca/~rhodin/) on the topics of Human Motion Learning, Character Control and Animation, and 3D Vision at the University of British Columbia. 
+I am a Ph.D. student working with [Prof. Helge Rhodin](https://www.cs.ubc.ca/~rhodin/) on the topics of Human Motion Learning, Character Control and Animation, and 3D Vision at the University of British Columbia.
 
-During my master's study, I worked with [Prof. Jia-Bin Huang](https://filebox.ece.vt.edu/~jbhuang/) at Virginia Tech. My research topics include **Machine Perception, Visual Representation Learning, Reinforcement Learning, and Embodied Vision Learning**. In 2019, I spent a wonderful summer at [Borealis.ai](https://www.borealisai.com) as a research intern working with [Dr. Hossein Hajimirsadeghi](https://scholar.google.com/citations?user=hNNBdHcAAAAJ&hl=en) on Graph Generation problem.
-
-Proir to that, I worked with [Prof. Chun-Yi Lee](http://cymaxwelllee.wixsite.com/elsa) and [Prof. Shang-Hong Lai](http://www.cs.nthu.edu.tw/~lai/) at National Tsing Hua University, [Dr. Yi-Hsuang Yang](http://mac.citi.sinica.edu.tw/~yang/) and [Dr. Li Su](https://sites.google.com/site/lisupage/) at Academia Sinica. 
+During my study, I am fortunate to have opportunities to work with [Dr. Michael Zollh\"oefer](https://zollhoefer.com/) at Facebook Reality Lab, [Prof. Jia-Bin Huang](https://filebox.ece.vt.edu/~jbhuang/) at Virginia Tech, [Dr. Hossein Hajimirsadeghi](https://hossein-h.github.io/) at Borealis AI, [Prof. Chun-Yi Lee](http://cymaxwelllee.wixsite.com/elsa) and [Prof. Shang-Hong Lai](http://www.cs.nthu.edu.tw/~lai/) at National Tsing Hua University, [Dr. Yi-Hsuang Yang](http:// mac.citi.sinica.edu.tw/~yang/) and [Dr. Li Su](https://sites.google.com/site/lisupage/) at Academia Sinica. 
 
 ## Project Links
 <div class="news" style="font-size:0.9em">
