@@ -11,7 +11,7 @@ author_profile: true
         <div class="pub-author"><b>Shih-Yang Su</b>, Frank Yu, Michael Zollhoefer, Helge Rhodin</div>
         <div class="pub-conf">NeurIPS 2021</div>
         [<a href="">Paper (Coming soon)</a>]
-        [<a href="https://lemonatsu.github.io/ANeRF-Surface-free-Pose-Refinement/">Project Page</a>]
+        [<a href="https://lemonatsu.github.io/anerf/">Project Page</a>]
     </div>
 </div>
 <div class="pub-container">
