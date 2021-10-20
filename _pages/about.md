@@ -13,8 +13,9 @@ I am a Ph.D. student working with [Prof. Helge Rhodin](https://www.cs.ubc.ca/~rh
 
 During my study, I am fortunate to have opportunities to work with [Dr. Michael Zollh&ouml;fer](https://zollhoefer.com/) at Facebook Reality Labs, [Prof. Jia-Bin Huang](https://filebox.ece.vt.edu/~jbhuang/) at Virginia Tech, [Dr. Hossein Hajimirsadeghi](https://hossein-h.github.io/) at Borealis AI, [Prof. Chun-Yi Lee](http://cymaxwelllee.wixsite.com/elsa) and [Prof. Shang-Hong Lai](http://www.cs.nthu.edu.tw/~lai/) at National Tsing Hua University, [Dr. Yi-Hsuang Yang](http:// mac.citi.sinica.edu.tw/~yang/) and [Dr. Li Su](https://sites.google.com/site/lisupage/) at Academia Sinica. 
 
-## Project Links
+## Project pages
 <div class="news" style="font-size:0.9em">
+<a href="https://lemonatsu.github.io/anerf/">A-NeRF: articulated radiance fields project page (NeurIPS 2021)</a> <br>
 <a href="https://shihmengli.github.io/3D-Photo-Inpainting/">3D Photography project page (CVPR 2020)</a> <br>
 <a href="https://lemonatsu.github.io/py8bit_web/">8 Bit converter project page (ICASSP 2017)</a>
 </div>
