@@ -46,7 +46,7 @@ During my study, I am fortunate to have opportunities to work with [Dr. Michael 
     <div class="pub-thumb"><img class="img-responsive" src="https://lemonatsu.github.io/images/anerf.gif"></div>
     <div class="pub-content">
         <div class="pub-title">A-NeRF: Articulated Neural Radiance Fields for Learning Human Shape, Appearance, and Pose</div>
-        <div class="pub-author"><b>Shih-Yang Su</b>, Frank Yu, Michael Zollhoefer, Helge Rhodin</div>
+        <div class="pub-author"><b>Shih-Yang Su</b>, Frank Yu, Michael Zollh&ouml;fer, Helge Rhodin</div>
         <div class="pub-conf">NeurIPS 2021</div>
         [<a href="">Paper (Coming soon)</a>]
         [<a href="https://lemonatsu.github.io/anerf/">Project Page</a>]
