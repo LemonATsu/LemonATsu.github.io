@@ -3,6 +3,6 @@ main:
   - title: "Home"
     url: /
   - title: "Publications"
-    url: /publications/
+    url: /#publications
   - title: "CV"
     url: /files/Shih-Yang_Su_CV.pdf
