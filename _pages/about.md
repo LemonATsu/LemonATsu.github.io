@@ -60,7 +60,7 @@ During my study, I am fortunate to have opportunities to work with [Dr. Michael 
         <div class="pub-conf">CVPR 2020</div>
         [<a href="https://arxiv.org/abs/2004.04727">Paper</a>]
         [<a href="https://shihmengli.github.io/3D-Photo-Inpainting/">Project Page</a>]
-        <div>Thumbnail credit: Otter Hinata</div>
+        <div>Thumbnail credit: <a href="https://twitter.com/uso_otter">uso_otter</a></div>
     </div>
 </div>
 <div class="pub-container">
