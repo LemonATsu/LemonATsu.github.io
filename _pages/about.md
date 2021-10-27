@@ -54,7 +54,7 @@ During my study, I am fortunate to have opportunities to work with [Dr. Michael 
     </div>
 </div>
 <div class="pub-container">
-    <div class="pub-thumb"><img class="img-responsive" src="https://lemonatsu.github.io/images/3dphoto.gif"></div>
+    <div class="pub-thumb"><img class="img-responsive" src="https://lemonatsu.github.io/images/3dphoto_compressed.gif"></div>
     <div class="pub-content">
         <div class="pub-title">3D Photography using context-aware layered depth inpainting</div>
         <div class="pub-author">Meng-Li Shih, <b>Shih-Yang Su</b>, Johannes Kopf, Jia-Bin Huang</div>
