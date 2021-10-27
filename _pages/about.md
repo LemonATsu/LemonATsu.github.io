@@ -15,7 +15,7 @@ During my study, I am fortunate to have opportunities to work with [Dr. Michael 
 
 ## News
 <div class="news" style="font-size:0.9em;width: 100%; height: 100px; overflow-y: scroll;">
-2021/10 - We have updated the <a href="https://arxiv.org/abs/2102.06199">A-NeRF</a> on arXiv to the NeurIPS version. 
+2021/10 - We have updated the <a href="https://arxiv.org/abs/2102.06199">A-NeRF</a> on arXiv to the NeurIPS version. <br>
 2021/09 - Our <a href="https://lemonatsu.github.io/anerf/">surface-free human body modeling</a> approach is accepted to <u>NeurIPS 2021</u>! <br>
 2021/03 - Submitted my reviews for ICML 2021 <br>
 2020/09 - Reviewing for ICLR 2021. <br>
