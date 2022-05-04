@@ -36,6 +36,7 @@ During my study, I am fortunate to have opportunities to work with [Dr. Michael 
 
 ## Project pages
 <div class="news" style="font-size:0.9em">
+<a href="https://lemonatsu.github.io/danbo/">DANBO: Disentangled Articulated Neural Body Representations via Graph Neural Networks (arXiv preprint)</a> <br>
 <a href="https://lemonatsu.github.io/anerf/">A-NeRF: articulated radiance fields project page (NeurIPS 2021)</a> <br>
 <a href="https://shihmengli.github.io/3D-Photo-Inpainting/">3D Photography project page (CVPR 2020)</a> <br>
 <a href="https://lemonatsu.github.io/py8bit_web/">8 Bit converter project page (ICASSP 2017)</a>
@@ -43,6 +44,16 @@ During my study, I am fortunate to have opportunities to work with [Dr. Michael 
 
 ## Publications
 <a id="#publications"></a>
+<div class="pub-container">
+    <div class="pub-thumb"><img class="img-responsive" src="https://lemonatsu.github.io/images/danbo.gif"></div>
+    <div class="pub-content">
+        <div class="pub-title">DANBO: Disentangled Articulated Neural Body Representations via Graph Neural Networks</div>
+        <div class="pub-author"><b>Shih-Yang Su</b>, Timur Bagautdinov, Helge Rhodin</div>
+        <div class="pub-conf">arXiv preprint</div>
+        [<a href="https://arxiv.org/abs/2205.01666">Paper</a>]
+        [<a href="https://lemonatsu.github.io/danbo/">Project Page</a>]
+    </div>
+</div>
 <div class="pub-container">
     <div class="pub-thumb"><img class="img-responsive" src="https://lemonatsu.github.io/images/anerf.gif"></div>
     <div class="pub-content">
