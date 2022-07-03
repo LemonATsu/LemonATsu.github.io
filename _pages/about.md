@@ -15,6 +15,7 @@ During my study, I am fortunate to have opportunities to work with [Dr. Michael 
 
 ## News
 <div class="news" style="font-size:0.9em;width: 100%; height: 100px; overflow-y: scroll;">
+2022/07 - Our <a href="https://lemonatsu.github.io/danbo/">surface-free robust human avatar</a> approach is accepted to <u>ECCV 2022</u>! <br>
 2021/10 - We have updated the <a href="https://arxiv.org/abs/2102.06199">A-NeRF</a> on arXiv to the NeurIPS version. <br>
 2021/09 - Our <a href="https://lemonatsu.github.io/anerf/">surface-free human body modeling</a> approach is accepted to <u>NeurIPS 2021</u>! <br>
 2021/03 - Submitted my reviews for ICML 2021 <br>
@@ -36,7 +37,7 @@ During my study, I am fortunate to have opportunities to work with [Dr. Michael 
 
 ## Project pages
 <div class="news" style="font-size:0.9em">
-<a href="https://lemonatsu.github.io/danbo/">DANBO: Disentangled Articulated Neural Body Representations (arXiv preprint)</a> <br>
+<a href="https://lemonatsu.github.io/danbo/">DANBO: Disentangled Articulated Neural Body Representations (ECCV 2022 [To appear])</a> <br>
 <a href="https://lemonatsu.github.io/anerf/">A-NeRF: articulated radiance fields (NeurIPS 2021)</a> <br>
 <a href="https://shihmengli.github.io/3D-Photo-Inpainting/">3D Photography (CVPR 2020)</a> <br>
 <a href="https://lemonatsu.github.io/py8bit_web/">8 Bit converter (ICASSP 2017)</a>
@@ -49,7 +50,7 @@ During my study, I am fortunate to have opportunities to work with [Dr. Michael 
     <div class="pub-content">
         <div class="pub-title">DANBO: Disentangled Articulated Neural Body Representations via Graph Neural Networks</div>
         <div class="pub-author"><b>Shih-Yang Su</b>, Timur Bagautdinov, Helge Rhodin</div>
-        <div class="pub-conf">arXiv preprint</div>
+        <div class="pub-conf">ECCV 2022 (To appear)</div>
         [<a href="https://arxiv.org/abs/2205.01666">Paper</a>]
         [<a href="https://lemonatsu.github.io/danbo/">Project Page</a>]
     </div>
