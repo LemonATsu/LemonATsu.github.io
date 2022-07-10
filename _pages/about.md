@@ -13,28 +13,6 @@ I am a Ph.D. student working with [Prof. Helge Rhodin](https://www.cs.ubc.ca/~rh
 
 During my study, I am fortunate to have opportunities to work with [Dr. Michael Zollh&ouml;fer](https://zollhoefer.com/) and [Dr. Timur Bagautdinov](https://scholar.google.ch/citations?user=oLi7xJ0AAAAJ&hl=en) at Meta Reality Labs, [Prof. Jia-Bin Huang](https://filebox.ece.vt.edu/~jbhuang/) at Virginia Tech, [Dr. Hossein Hajimirsadeghi](https://hossein-h.github.io/) at Borealis AI, [Prof. Chun-Yi Lee](http://cymaxwelllee.wixsite.com/elsa) and [Prof. Shang-Hong Lai](http://www.cs.nthu.edu.tw/~lai/) at National Tsing Hua University, [Dr. Yi-Hsuang Yang](http:// mac.citi.sinica.edu.tw/~yang/) and [Dr. Li Su](https://sites.google.com/site/lisupage/) at Academia Sinica. 
 
-## News
-<div class="news" style="font-size:0.9em;width: 100%; height: 100px; overflow-y: scroll;">
-2022/07 - Our <a href="https://lemonatsu.github.io/danbo/">surface-free robust human avatar</a> approach is accepted to <u>ECCV 2022</u>! <br>
-2021/10 - We have updated the <a href="https://arxiv.org/abs/2102.06199">A-NeRF</a> on arXiv to the NeurIPS version. <br>
-2021/09 - Our <a href="https://lemonatsu.github.io/anerf/">surface-free human body modeling</a> approach is accepted to <u>NeurIPS 2021</u>! <br>
-2021/03 - Submitted my reviews for ICML 2021 <br>
-2020/09 - Reviewing for ICLR 2021. <br>
-2020/09 - Now a Ph.D. student in Computer Science at the University of British Columbia. <br>
-2020/05 - Got my M.Sc. degree in Computer Engineering. <br>
-2020/04 - I will serve as a reviewer for NeurIPS 2020. <br>
-2020/02 - Our paper on <a href="https://arxiv.org/abs/2004.04727">3D Photograph</a> is accepted to <u>CVPR 2020</u>! <br>
-2019/10 - Our paper on <a href="https://arxiv.org/abs/1910.01743">graph generation</a> is accepted to <u>NeurIPS 2019</u> <a href="https://grlearning.github.io/">GRL Workshop</a>! <br>
-2019/05 - Start my internship at <a href="https://www.borealisai.com">Borealis.ai</a> Vancouver! <br>
-2019/04 - I will serve as a reviewer for NeurIPS 2019. <br>
-2018/11 - I am one of the student volunteers in NeurIPS 2018. Come and say hello! <br>
-2018/09 - Our paper on <a href="https://arxiv.org/abs/1802.04564.pdf">RL exploration strategy</a> is accepted to <u>NeurIPS 2018</u>! <br>
-2018/08 - Finished my military service! <br>
-2018/04 - Start my military service. <br>
-2018/04 - Our paper on virtual-to-real reinforcement learning is accepted to <u>IJCAI 2018</u>! <br>
-2018/01 - Our paper on multi-agent learning is accepted to <u>AAMAS 2018</u>! 
-</div>
-
 ## Project pages
 <div class="news" style="font-size:0.9em">
 <a href="https://lemonatsu.github.io/danbo/">DANBO: Disentangled Articulated Neural Body Representations (ECCV 2022 [To appear])</a> <br>
@@ -121,5 +99,29 @@ During my study, I am fortunate to have opportunities to work with [Dr. Michael 
         [<a href="https://lemonatsu.github.io/files/su17icassp.pdf">Paper</a>]
         [<a href="https://lemonatsu.github.io/py8bit_web/">Project Page</a>]
     </div>
+</div>
+
+
+
+## News
+<div class="news" style="font-size:0.9em;width: 100%; height: 100px; overflow-y: scroll;">
+2022/07 - Our <a href="https://lemonatsu.github.io/danbo/">surface-free robust human avatar</a> approach is accepted to <u>ECCV 2022</u>! <br>
+2021/10 - We have updated the <a href="https://arxiv.org/abs/2102.06199">A-NeRF</a> on arXiv to the NeurIPS version. <br>
+2021/09 - Our <a href="https://lemonatsu.github.io/anerf/">surface-free human body modeling</a> approach is accepted to <u>NeurIPS 2021</u>! <br>
+2021/03 - Submitted my reviews for ICML 2021 <br>
+2020/09 - Reviewing for ICLR 2021. <br>
+2020/09 - Now a Ph.D. student in Computer Science at the University of British Columbia. <br>
+2020/05 - Got my M.Sc. degree in Computer Engineering. <br>
+2020/04 - I will serve as a reviewer for NeurIPS 2020. <br>
+2020/02 - Our paper on <a href="https://arxiv.org/abs/2004.04727">3D Photograph</a> is accepted to <u>CVPR 2020</u>! <br>
+2019/10 - Our paper on <a href="https://arxiv.org/abs/1910.01743">graph generation</a> is accepted to <u>NeurIPS 2019</u> <a href="https://grlearning.github.io/">GRL Workshop</a>! <br>
+2019/05 - Start my internship at <a href="https://www.borealisai.com">Borealis.ai</a> Vancouver! <br>
+2019/04 - I will serve as a reviewer for NeurIPS 2019. <br>
+2018/11 - I am one of the student volunteers in NeurIPS 2018. Come and say hello! <br>
+2018/09 - Our paper on <a href="https://arxiv.org/abs/1802.04564.pdf">RL exploration strategy</a> is accepted to <u>NeurIPS 2018</u>! <br>
+2018/08 - Finished my military service! <br>
+2018/04 - Start my military service. <br>
+2018/04 - Our paper on virtual-to-real reinforcement learning is accepted to <u>IJCAI 2018</u>! <br>
+2018/01 - Our paper on multi-agent learning is accepted to <u>AAMAS 2018</u>! 
 </div>
 
