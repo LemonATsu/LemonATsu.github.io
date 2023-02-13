@@ -28,7 +28,7 @@ During my study, I am fortunate to have opportunities to work with [Dr. Michael 
     <div class="pub-content">
         <div class="pub-title">DANBO: Disentangled Articulated Neural Body Representations via Graph Neural Networks</div>
         <div class="pub-author"><b>Shih-Yang Su</b>, Timur Bagautdinov, Helge Rhodin</div>
-        <div class="pub-conf">ECCV 2022 (To appear)</div>
+        <div class="pub-conf">ECCV 2022</div>
         [<a href="https://arxiv.org/abs/2205.01666">Paper</a>]
         [<a href="https://lemonatsu.github.io/danbo/">Project Page</a>]
     </div>
