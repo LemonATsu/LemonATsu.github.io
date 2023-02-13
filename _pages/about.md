@@ -15,7 +15,7 @@ During my study, I am fortunate to have opportunities to work with [Dr. Michael 
 
 ## Project pages
 <div class="news" style="font-size:0.9em">
-<a href="https://lemonatsu.github.io/danbo/">DANBO: Disentangled Articulated Neural Body Representations (ECCV 2022 [To appear])</a> <br>
+<a href="https://lemonatsu.github.io/danbo/">DANBO: Disentangled Articulated Neural Body Representations (ECCV 2022)</a> <br>
 <a href="https://lemonatsu.github.io/anerf/">A-NeRF: articulated radiance fields (NeurIPS 2021)</a> <br>
 <a href="https://shihmengli.github.io/3D-Photo-Inpainting/">3D Photography (CVPR 2020)</a> <br>
 <a href="https://lemonatsu.github.io/py8bit_web/">8 Bit converter (ICASSP 2017)</a>
