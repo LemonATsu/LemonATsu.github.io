@@ -24,6 +24,16 @@ During my study, I am fortunate to have opportunities to work with [Dr. Michael 
 ## Publications
 <a id="#publications"></a>
 <div class="pub-container">
+    <div class="pub-thumb"><img class="img-responsive" src="https://lemonatsu.github.io/images/npc.gif"></div>
+    <div class="pub-content">
+        <div class="pub-title">NPC: Neural Point Characters from Video</div>
+        <div class="pub-author"><b>Shih-Yang Su</b>, Timur Bagautdinov, Helge Rhodin</div>
+        <div class="pub-conf">arXiv 2023</div>
+        [<a href="https://arxiv.org/abs/2304.02013">Paper</a>]
+        [<a href="https://lemonatsu.github.io/npc/">Project Page</a>]
+    </div>
+</div>
+<div class="pub-container">
     <div class="pub-thumb"><img class="img-responsive" src="https://lemonatsu.github.io/images/danbo.gif"></div>
     <div class="pub-content">
         <div class="pub-title">DANBO: Disentangled Articulated Neural Body Representations via Graph Neural Networks</div>
