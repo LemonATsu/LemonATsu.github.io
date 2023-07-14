@@ -29,7 +29,7 @@ During my study, I am fortunate to have opportunities to work with [Dr. Michael 
     <div class="pub-content">
         <div class="pub-title">NPC: Neural Point Characters from Video</div>
         <div class="pub-author"><b>Shih-Yang Su</b>, Timur Bagautdinov, Helge Rhodin</div>
-        <div class="pub-conf">arXiv 2023</div>
+        <div class="pub-conf">ICCV 2023</div>
         [<a href="https://arxiv.org/abs/2304.02013">Paper</a>]
         [<a href="https://lemonatsu.github.io/npc/">Project Page</a>]
     </div>
@@ -116,6 +116,7 @@ During my study, I am fortunate to have opportunities to work with [Dr. Michael 
 
 ## News
 <div class="news" style="font-size:0.9em;width: 100%; height: 100px; overflow-y: scroll;">
+2023/07 - Our <a href="https://lemonatsu.github.io/npc/">point-based human avatar</a> approach is accepted to <u>ICCV 2023</u>! <br>
 2023/04 - I am now a Ph.D. candidate! <br>
 <div class="news" style="font-size:0.9em;width: 100%; height: 100px; overflow-y: scroll;">
 2022/07 - Our <a href="https://lemonatsu.github.io/danbo/">surface-free robust human avatar</a> approach is accepted to <u>ECCV 2022</u>! <br>
