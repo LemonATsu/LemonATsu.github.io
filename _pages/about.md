@@ -118,7 +118,6 @@ During my study, I am fortunate to have opportunities to work with [Dr. Michael 
 <div class="news" style="font-size:0.9em;width: 100%; height: 100px; overflow-y: scroll;">
 2023/07 - Our <a href="https://lemonatsu.github.io/npc/">point-based human avatar</a> approach is accepted to <u>ICCV 2023</u>! <br>
 2023/04 - I am now a Ph.D. candidate! <br>
-<div class="news" style="font-size:0.9em;width: 100%; height: 100px; overflow-y: scroll;">
 2022/07 - Our <a href="https://lemonatsu.github.io/danbo/">surface-free robust human avatar</a> approach is accepted to <u>ECCV 2022</u>! <br>
 2021/10 - We have updated the <a href="https://arxiv.org/abs/2102.06199">A-NeRF</a> on arXiv to the NeurIPS version. <br>
 2021/09 - Our <a href="https://lemonatsu.github.io/anerf/">surface-free human body modeling</a> approach is accepted to <u>NeurIPS 2021</u>! <br>
