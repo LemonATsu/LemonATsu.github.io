@@ -184,7 +184,8 @@
                     Our core idea is to employ a point cloud p as an anchor to carry features from the
                     canonical to the observation space, forming an efficient mapping between the two. (1) Each p carries a learnable feature fp
                     and its position queries features fs from a canonical field. (2) The GNN adds pose-dependent features fθ and deformation
-                    Δp. (3) The view direction and distance is added in bone-relative space. (4) The k-nearest neighbors of
+                    Δp. (3) The view direction and distance is added in bone-relative space. (4) The k-nearest neighbors of qo are used to establish 
+                    forward and backward mapping from a query point to both posed and canonical points.
                 </p>
                 <br>
                 </br>
