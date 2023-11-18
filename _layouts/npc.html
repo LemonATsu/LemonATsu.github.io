@@ -90,27 +90,27 @@
                 <div class="col-md-4 col-md-offset-4 text-center">
                     <ul class="nav nav-pills nav-justified">
                         <li>
-                            <a href="https://arxiv.org/abs/2304.02013">
-                            <image src="{{ base_path }}/files/npc/img/paper_img.png" height="60px">
-                                <h4><strong>Paper</strong></h4>
+                            <!--<a href="https://arxiv.org/abs/2304.02013">-->
+                            <!--<image src="{{ base_path }}/files/npc/img/paper_img.png" height="60px">-->
+                                <a href="https://arxiv.org/abs/2304.02013"><strong>Paper</strong></a>
                             </a>
                         </li>
                         <li>
-                            <a href="https://lemonatsu.github.io/files/npc/supp.pdf">
-                            <image src="{{ base_path }}/files/npc/img/supp_img.png" height="60px">
-                                <h4><strong>Supplementary</strong></h4>
+                            <!--<a href="https://lemonatsu.github.io/files/npc/supp.pdf">-->
+                            <!--<image src="{{ base_path }}/files/npc/img/supp_img.png" height="60px">-->
+                                <a href="https://lemonatsu.github.io/files/npc/supp.pdf"><strong>Supplementary</strong></a>
                             </a>
                         </li>
-                        <li>
+                        <!--<li>
                             <a href="https://youtu.be/0uzO6KL6BEY">
                             <image src="{{ base_path }}/files/npc/img/youtube_icon.png" height="60px">
-                                <h4><strong>Video</strong></h4>
+                                <a><strong>Video</strong></a>
                             </a>
-                        </li>
+                        </li>-->
                         <li>
-                            <a href="https://github.com/LemonATsu/NPC-pytorch">
-                            <image src="{{ base_path }}/files/npc/img/github.png" height="60px">
-                                <h4><strong>Code </br></strong></h4>
+                            <!--<a href="https://github.com/LemonATsu/NPC-pytorch">-->
+                            <!--<image src="{{ base_path }}/files/npc/img/github.png" height="60px">-->
+                                <a href="https://github.com/LemonATsu/NPC-pytorch"><strong>Code </br></strong></a>
                             </a>
                         </li>
                     </ul>
@@ -121,19 +121,19 @@
 
         <div class="row">
             <div class="col-md-8 col-md-offset-2">
-                <h3>
+                <!--<h3>
                     Abstract
-                </h3>
+                </h3>-->
                 <image src="{{ base_path }}/files/npc/img/teaser_blur.png" class="img-responsive" alt="overview"><br>
                 <p class="text-justify">
-                    High-fidelity human 3D models can now be learned directly from videos, typically by combining a template-based surface model with neural representations. 
+                    <!--High-fidelity human 3D models can now be learned directly from videos, typically by combining a template-based surface model with neural representations. 
                     However, obtaining a template surface requires expensive multi-view capture systems, laser scans, or strictly controlled conditions. 
-                    Previous methods avoid using a template but rely on a costly or ill-posed mapping from observation to canonical space. 
-                    We propose a hybrid point-based representation for reconstructing animatable characters that does not require an explicit surface model, while being generalizable to novel poses. 
-                    For a given video, our method automatically produces an explicit set of 3D points representing approximate canonical geometry, and learns an articulated deformation model that produces pose-dependent point transformations. 
+                    Previous methods avoid using a template but rely on a costly or ill-posed mapping from observation to canonical space.--> 
+                    We propose a hybrid point-based representation for reconstructing animatable characters from a given video without an explicit surface model. 
+                    Our method automatically produces an explicit set of 3D points representing approximate canonical geometry, and learns an articulated deformation model that produces pose-dependent point transformations. 
                     The points serve both as a scaffold for high-frequency neural features and an anchor for efficiently mapping between observation and canonical space. 
-                    We demonstrate on established benchmarks that our representation overcomes limitations of prior work operating in either canonical or in observation space. 
-                    Moreover, our automatic point extraction approach enables learning models of human and animal characters alike, matching the performance of the methods using rigged surface templates despite being more general.
+                    <!--We demonstrate on established benchmarks that our representation overcomes limitations of prior work operating in either canonical or in observation space. 
+                    Moreover, our automatic point extraction approach enables learning models of human and animal characters alike, matching the performance of the methods using rigged surface templates despite being more general.-->
                 </p>
                 <br>
                 <b>We blur all faces for anonymity.</b>
@@ -141,7 +141,33 @@
             </div>
         </div>
 
+        <div class="row">
+            <div class="col-md-8 col-md-offset-2">
+                <h3>
+                    Novel Pose Comparisons on H36M and AIST++
+                </h3>
+                <image src="{{ base_path }}/files/npc/img/novel_pose.png" class="img-responsive" alt="overview"><br>
+                <image src="{{ base_path }}/files/npc/img/novel_pose_aist++.png" class="img-responsive" alt="overview"><br>
+            </div>
+        </div>
 
+        <div class="row">
+            <div class="col-md-8 col-md-offset-2">
+                <h3>
+                    Novel View Comparisons on H36M
+                </h3>
+                <image src="{{ base_path }}/files/npc/img/novel_view.png" class="img-responsive" alt="overview"><br>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-md-8 col-md-offset-2">
+                <h3>
+                    Ablation Study
+                </h3>
+                <image src="{{ base_path }}/files/npc/img/ablation.png" class="img-responsive" alt="overview"><br>
+            </div>
+        </div>
 
         <div class="row">
             <div class="col-md-8 col-md-offset-2">
