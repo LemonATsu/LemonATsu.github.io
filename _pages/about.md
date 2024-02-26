@@ -25,6 +25,26 @@ During my study, I am fortunate to have opportunities to work with [Dr. Michael 
 ## Publications
 <a id="#publications"></a>
 <div class="pub-container">
+    <div class="pub-thumb"><img class="img-responsive" src="https://lemonatsu.github.io/images/gsc_compressed_thumb.gif"></div>
+    <div class="pub-content">
+        <div class="pub-title">Gaussian Shadow Casting for Neural Characters</div>
+        <div class="pub-author">Luis Bola&ntilde;os, <b>Shih-Yang Su</b>, Helge Rhodin</div>
+        <div class="pub-conf">CVPR 2024</div>
+        [<a href="https://arxiv.org/abs/2401.06116">Paper</a>]
+        [<a href="">Project Page (Coming soon)</a>]
+    </div>
+</div>
+<div class="pub-container">
+    <div class="pub-thumb"><img class="img-responsive" src="https://lemonatsu.github.io/images/mirror_retargetting_cropped.gif"></div>
+    <div class="pub-content">
+        <div class="pub-title">Mirror-Aware Neural Humans</div>
+        <div class="pub-author">Daniel Ajisafe, James Tang, <b>Shih-Yang Su</b>, Bastian Wandt, Helge Rhodin</div>
+        <div class="pub-conf">3DV 2024</div>
+        [<a href="https://arxiv.org/abs/2309.04750">Paper</a>]
+        [<a href="https://danielajisafe.github.io/mirror-aware-neural-humans/">Project Page</a>]
+    </div>
+</div>
+<div class="pub-container">
     <div class="pub-thumb"><img class="img-responsive" src="https://lemonatsu.github.io/images/npc.gif"></div>
     <div class="pub-content">
         <div class="pub-title">NPC: Neural Point Characters from Video</div>
