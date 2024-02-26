@@ -136,7 +136,7 @@ During my study, I am fortunate to have opportunities to work with [Dr. Michael 
 
 ## News
 <div class="news" style="font-size:0.9em;width: 100%; height: 100px; overflow-y: scroll;">
-2024/02 - Defended my Ph.D. dissertation!
+2024/02 - Defended my Ph.D. dissertation! <br>
 2023/07 - Our <a href="https://lemonatsu.github.io/npc/">point-based human avatar</a> approach is accepted to <u>ICCV 2023</u>! <br>
 2023/04 - I am now a Ph.D. candidate! <br>
 2022/07 - Our <a href="https://lemonatsu.github.io/danbo/">surface-free robust human avatar</a> approach is accepted to <u>ECCV 2022</u>! <br>
