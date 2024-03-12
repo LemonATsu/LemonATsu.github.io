@@ -11,7 +11,7 @@ redirect_from:
 ---
 I finished my Ph.D. in Computer Science at the University of British Columbia, where I worked with [Prof. Helge Rhodin](https://www.cs.ubc.ca/~rhodin/) on the topics of Human Motion Learning, Character Control and Animation, and 3D Vision.
 
-I am fortunate to have opportunities to work with [Dr. Michael Zollh&ouml;fer](https://zollhoefer.com/) and [Dr. Timur Bagautdinov](https://scholar.google.ch/citations?user=oLi7xJ0AAAAJ&hl=en) at Meta Reality Labs, [Prof. Jia-Bin Huang](https://filebox.ece.vt.edu/~jbhuang/) at the University of Maryland, College Park, [Dr. Hossein Hajimirsadeghi](https://hossein-h.github.io/) at Borealis AI, [Prof. Chun-Yi Lee](http://cymaxwelllee.wixsite.com/elsa) and [Prof. Shang-Hong Lai](http://www.cs.nthu.edu.tw/~lai/) at National Tsing Hua University, [Dr. Yi-Hsuang Yang](http:// mac.citi.sinica.edu.tw/~yang/) and [Dr. Li Su](https://sites.google.com/site/lisupage/) at Academia Sinica. 
+I am fortunate to have opportunities to work with [Dr. Michael Zollh&ouml;fer](https://zollhoefer.com/) and [Dr. Timur Bagautdinov](https://scholar.google.ch/citations?user=oLi7xJ0AAAAJ&hl=en) at Meta Reality Labs, [Prof. Jia-Bin Huang](https://filebox.ece.vt.edu/~jbhuang/) at the University of Maryland, College Park, [Dr. Hossein Hajimirsadeghi](https://hossein-h.github.io/) at Borealis AI, [Prof. Chun-Yi Lee](https://elsalab.ai/about) and [Prof. Shang-Hong Lai](http://www.cs.nthu.edu.tw/~lai/) at National Tsing Hua University, [Dr. Yi-Hsuang Yang](http:// mac.citi.sinica.edu.tw/~yang/) and [Dr. Li Su](https://sites.google.com/site/lisupage/) at Academia Sinica. 
 
 ## Project pages
 <div class="news" style="font-size:0.9em">
